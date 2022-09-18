@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    margin: 2px;
+}
+#canvas {
+    display: block;
+}
+.container {
+    display: flex;
+    border: 1px solid black;
+}
+.block {
+    margin: 10px;
+}
